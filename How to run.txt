@@ -1,0 +1,12 @@
+In command prompt open this folder
+type "python main.py" to run this application
+
+
+How to use this application
+
+To set the survillance starting use right click of the mouse
+To set the survillance path which vehicle use middle button of the mouse and drag along the path you want to set as survillance path
+
+To select different algorithm left click on the button which labeled as the name of the algorithm
+To regenerate the obstacle left click on the generate button
+To start the simulation left click on the simulate button
